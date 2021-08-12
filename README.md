@@ -8,13 +8,17 @@ I am also an open-source enthusiast and I have learnt a lot from the open-source
 
 
 
+languages and tools:
 
-Follow me : 
 
-<a href="https://www.linkedin.com/in/idris-akinade-b9398411a/" rel="nofollow"> <img align="left" alt="Idris's LinkedIN" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"></a>
+
+<img src="https://img.icons8.com/color/48/000000/python--v1.png"/> <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/fluency/48/000000/docker.png"/> <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png"/> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/
 
 
   
+
+
+
 
 
 
