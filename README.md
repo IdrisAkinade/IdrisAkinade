@@ -8,5 +8,26 @@ I am also an open-source enthusiast and I have learnt a lot from the open-source
 
 
 
-<a href=”https://www.linkedin.com/in/idris-akinade-b9398411a/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
+
+Follow me : 
+
+<a href="https://www.linkedin.com/in/idris-akinade-b9398411a/" rel="nofollow"> <img align="left" alt="Idris's LinkedIN" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"></a>
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
