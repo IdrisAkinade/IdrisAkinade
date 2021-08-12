@@ -1,4 +1,4 @@
-### Hi 👋, Welcome To My GitHub
+## Hi 👋, Welcome To My GitHub
 
 <img src="https://media.giphy.com/media/xT4uQF7h39mlsF5czK/giphy.gif" width="100000" height="300" />
 
@@ -8,5 +8,5 @@ I am also an open-source enthusiast and I have learnt a lot from the open-source
 
 
 
-
+<a href=”https://www.linkedin.com/in/idris-akinade-b9398411a/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
 
