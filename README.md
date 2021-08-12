@@ -1,11 +1,12 @@
 <h1 align="center"> Hi 👋, Welcome To My GitHub </h1>
 
-<h2 align="center">  Here is a random joke that'll make you laugh 😂😂 </h2>
+<h3 align="center">  Here is a random joke that'll make you laugh 😂😂 </h3>
 
-![Jokes Card](https://readme-jokes.vercel.app/api) 
+<img align="center" alt="Jokes Card" src="https://readme-jokes.vercel.app/api" width="950">
 
-<i> Hello there, my name is Idris Akinade. I'm an aspiring Data Engineer with  a deep understanding of database fundamentals and strong understanding of python and programming best practices. I'm always committed, driven and embrace learning and gaining experience to expand my knowledge of technology.
-I am also an open-source enthusiast and I have learnt a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.</i>
+<i> 
+Hello there, my name is Idris Akinade. I'm an aspiring Data Engineer with  a deep understanding of database fundamentals and strong understanding of python and programming best practices. I'm always committed, driven and embrace learning and gaining experience to expand my knowledge of technology.
+</i>
 
 
 
