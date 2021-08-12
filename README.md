@@ -25,7 +25,6 @@ Hello there, my name is Idris Akinade. I'm an aspiring Data Engineer with  a dee
 
 ## My GitHub Stats:
 <img src="https://github-readme-stats.vercel.app/api?username=IdrisAkinade&theme=highcontrast&show_icons=true" width="400" height="300" style="max-width:100%;"> <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="400" height="300" style="max-width:100%;">
-
 <img align="left" alt="My Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IdrisAkinade&theme=blue-green">
 <br />
 
