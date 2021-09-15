@@ -4,7 +4,7 @@
 
 <img src="https://readme-jokes.vercel.app/api" width="900">
 <i> 
-Hello there, my name is Idris Akinade. I'm an aspiring Data Engineer with  a deep understanding of database fundamentals and strong understanding of python and programming best practices. I'm always committed, driven and embrace learning and gaining experience to expand my knowledge of technology.
+Hello there, my name is Idris Akinade. I'm an aspiring Software Engineer with  a deep understanding of database fundamentals and strong understanding of python and programming best practices. I'm always committed, driven and embrace learning and gaining experience to expand my knowledge of technology.
 </i>
 <br />
 
